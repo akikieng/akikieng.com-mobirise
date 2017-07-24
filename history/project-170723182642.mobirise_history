@@ -387,7 +387,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AEE&nbsp;(since 1995)&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"history1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history1.html\" aria-expanded=\"false\">Story</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Brands.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Brands</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Brands.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Zurn</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Plumbing Products</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Commenrcial Brass &amp; Fixtures</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Wilkins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Elkay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Alamo Water</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Aquafine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">GA Industries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Amtrol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">FLO THRU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">ASI</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cerfiticaion.html\">Water Quality Member</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Green Technology</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AEE Green Technology<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zurn Green Technology<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Water Treatment</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WaterTreatmentEquipment.html\"><p>Equipment<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>Bio-chemicals<br></p></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WaterTreatmentBiochemicals.html\" aria-expanded=\"false\">Biochemicals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Waste Treatment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChemicalTreatment.html\" aria-expanded=\"false\">Chemical Treatment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Plumbing &amp; Hydronic Services&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Washroom Indrustrial Equipment&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactInfo.html\">Office</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactInfo.html\">Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactForm.html\">Online Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactInfo.html\">Vacancies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactInfo.html\">Location</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"PortfolioFrontPage.html\">PORTFOLIO</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"history1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history1.html\" aria-expanded=\"false\">Story</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Brands.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Brands</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Brands.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Zurn</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Plumbing Products</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Commenrcial Brass &amp; Fixtures</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Wilkins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Elkay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Alamo Water</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Aquafine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">GA Industries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">Amtrol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">FLO THRU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brands.html\">ASI</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cerfiticaion.html\">Water Quality Member</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Green Technology</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AEE Green Technology<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zurn Green Technology<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Water Treatment</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WaterTreatmentEquipment.html\"><p>Equipment<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>Bio-chemicals<br></p></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WaterTreatmentBiochemicals.html\" aria-expanded=\"false\">Biochemicals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Waste Treatment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ChemicalTreatment.html\" aria-expanded=\"false\">Chemical Treatment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Plumbing &amp; Hydronic Services&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Washroom Indrustrial Equipment&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactInfo.html\">Office</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactInfo.html\">Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactForm.html\">Online Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactInfo.html\">Vacancies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ContactInfo.html\">Location</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"PortfolioFrontPage.html\">PORTFOLIO</a></li>"
         }
       ]
     },
@@ -1983,11 +1983,6 @@
             "Theme"
           ],
           "_name": "features1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
           "_anchor": "features1-1l",
           "_params": {
             "paddingTop": 3,
@@ -2146,7 +2141,12 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -2904,14 +2904,6 @@
             "Theme"
           ],
           "_name": "features1",
-          "_styles": {
-            ".mbr-header__subtext": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
           "_anchor": "features1-1z",
           "_params": {
             "paddingTop": 3,
@@ -3058,18 +3050,21 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            ".mbr-header__subtext": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
           "_anchor": "features1-22",
           "_params": {
             "paddingTop": 3,
@@ -3216,7 +3211,12 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
@@ -4148,27 +4148,27 @@
           },
           "_anchor": "features1-2c",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": true,
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "AEE PRODUCTS",
@@ -4322,15 +4322,15 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-2d",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -4355,13 +4355,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<strong>ADDRESS</strong><br><i><b>Engineering &amp; Sales Office</b></i><br>1st fl., La Madonna Bldg,<br>Saide Str., Ashrafieh,<br>Beirut, Lebanon.<br><br><i><b>Warehouse&nbsp;</b></i><br><i><b><br></b></i><br><br><b>Sales Personel</b><br>Email: akikieng@cyberia.net.lb&nbsp;<br>PO Box: 16-69 79<br>Tel: +961 1 339 322<br>Fax: +961 1 330 491<br>Web: http://www.akikieng.com<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
