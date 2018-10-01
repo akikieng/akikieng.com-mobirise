@@ -1,6 +1,6 @@
 # akikieng.com-mobirise
-Website for AEE built with mobirise.com
+Website for AEE built with https://mobirise.com/
 
-Destination: www.akikieng.com
+To be published at www.akikieng.com
 
-Viewable https://akikieng.github.com/akikieng.com-mobirise
+Currently viewable at https://akikieng.github.com/akikieng.com-mobirise
